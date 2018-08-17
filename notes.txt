@@ -1,0 +1,93 @@
+JS Editors:
+    - Features:
+        - Autocompletion
+        - Parse Es6 imports
+        - Report unused imports
+        - Automated refactoring
+        - Framework intelligence
+        - Built-in terminal
+
+    - Autom
+    - Webstorm
+    - Brackets
+    - VsCode ->
+
+EditorConfig
+    - .editorconfig
+
+Security
+	- retire.JS
+	- nsp check
+	- npm built int security ->
+
+Package manager
+	- npm ->
+	- Bower
+	- jspm
+	- Jam
+	- volo
+
+Development web servers
+	- http-server
+	- live-server
+	- express ->
+	- budo
+	- webpack
+	- browsersync -> cobrowsing!!
+
+Sharing work in progress
+	- localtunel ->
+		- npm install localtunel -g
+		- start app
+		- lt --port 3000 --subdomain <a desired subdomain>
+	- ngrok
+		- sign up
+		- install ngrog
+		- install auth token
+		- start app
+		- ./ngrog http 80
+	- now
+		- npn install -g now
+		- create start script
+		- now
+	- surge
+		- npm install -g surge
+		- surge
+
+Automation
+	- Grunt
+	- Gulp
+	- npm scritps ->
+
+Transpilers
+	- Babel ->
+	- TypeScript
+	- Elm
+
+Bundlers
+	- Browserify
+	- Webpack ->
+	- Rollup
+	- jspm
+
+linters
+	- JSLint
+	- JSHint
+	- ESLint ->
+
+Testing Frameworks
+	- Mocha ->
+	- Jasmine
+	- Tape
+	- QUnit
+	- Ava
+	- Jest
+
+Continous integration
+	- Travis ->
+	- Appveyor ->
+	- Jenkins
+	- CircleCI
+	- Semaphore
+	- SnapCI
+
